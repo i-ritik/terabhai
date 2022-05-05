@@ -3,11 +3,14 @@
     "description": "Save restricted content",
     "logo": "",
     "keywords": [
-        "save restricted bot",
+        "Best",
+        "telegram",
+        "save restricted",
+        "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/i-ritik/terabhai",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/samaysamachar",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
@@ -22,15 +25,15 @@
             "value": ""
         },
         "SESSION": {
-            "description": "pyrogram string session.",
+            "description": "Owner/ user id",
             "value": ""
         },
         "AUTH": {
-            "description": "USER ID of bot owner",
+            "description": "Public channel username without '@'. Don't forget to add bot in channel as administrator.",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Public channel username without using '@'.",
+            "description": "pyrogram string session.",
             "value": ""
         }
     },
